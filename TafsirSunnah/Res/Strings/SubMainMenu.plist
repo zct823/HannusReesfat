@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<dict/>
+	<key>000</key>
+	<dict>
+		<key>000</key>
+		<string>Ringkasan 20 Usul Tafsir Al-Quran</string>
+		<key>001</key>
+		<string>Usul 1: Tafsir Quran dengan Quran</string>
+		<key>002</key>
+		<string>Usul 2: Tafsir Quran dan Hadist</string>
+		<key>003</key>
+		<string>Usul 3: Tafsir Quran dengan Atsar Sahabat</string>
+	</dict>
+</dict>
+</plist>
